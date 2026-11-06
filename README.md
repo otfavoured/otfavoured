@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Favour a Cloud Network Engineer, I specialize in Multi-Cloud Networking across, Azure, GCP, and AWS, I love deploying Compute/Networking resources or as the case of the project maybe using Terraform, I love fixing route and connectivity issues especialy in Hybrid cloud environment.
-- 💞️ I’m looking to collaborate onDevops and IaC Terraform Projects
+- 👋 Hi, I’m Favour a Cloud Network Engineer, I specialize in Multi-Cloud Network Engineering across CSPs Azure, GCP, AWS, etc. I love deploying Compute/Networking resources using Terraform through CI/CD, Primarily I fix route and connectivity issues especialy in Hybrid cloud environment.
+- 💞️ I’m looking to collaborate on Devops and IaC Terraform Projects
 - 📫 How to reach me: favour.olawuyii@gmail.com, Whatsapp: +2348106313349
 
 <!---
